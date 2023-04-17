@@ -12,4 +12,8 @@ ln -sf /usr/bin/vim /usr/bin/nano
 ```
 
 move vimrc to /usr/local/etc/vimrc.  
-move vim to /usr/bin.
+move vim to /usr/bin/vim.
+
+## init.vim
+
+neovim configuration in vimscript.
